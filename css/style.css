@@ -60,6 +60,9 @@ small{
     display: inline-block;
     margin-bottom: 20px;
 }
+input[type= file]{
+    margin-bottom: 0;
+}
 p{
     margin-bottom: 15px;
     font-weight: bold;
